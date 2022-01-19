@@ -1,0 +1,11 @@
+﻿  Shapes.cpp
+  main.cpp
+C:\Users\sdcav\source\repos\Lab6Polymorphism\Lab6Polymorphism\main.cpp(57,34): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\sdcav\source\repos\Lab6Polymorphism\Lab6Polymorphism\main.cpp(59,41): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\sdcav\source\repos\Lab6Polymorphism\Lab6Polymorphism\main.cpp(61,34): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\sdcav\source\repos\Lab6Polymorphism\Lab6Polymorphism\main.cpp(78,55): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\sdcav\source\repos\Lab6Polymorphism\Lab6Polymorphism\main.cpp(80,41): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\sdcav\source\repos\Lab6Polymorphism\Lab6Polymorphism\main.cpp(82,34): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\sdcav\source\repos\Lab6Polymorphism\Lab6Polymorphism\main.cpp(233,13): warning C4244: 'return': conversion from 'double' to 'float', possible loss of data
+  Generating Code...
+  Lab6Polymorphism.vcxproj -> C:\Users\sdcav\source\repos\Lab6Polymorphism\Debug\Lab6Polymorphism.exe
